@@ -15,3 +15,4 @@ export const Thing: FC<Props> = ({ children }) => {
 };
 
 export {Center} from './components/Center'
+export { Button } from './components/Button'
