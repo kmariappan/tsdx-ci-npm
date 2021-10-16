@@ -26,6 +26,9 @@
   "peerDependencies": {
     "react": ">=16"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "husky": {
     "hooks": {
       "pre-commit": "tsdx lint"
